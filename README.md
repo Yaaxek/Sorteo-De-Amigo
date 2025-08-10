@@ -27,7 +27,7 @@
 - **Google Fonts**: Tipografías Inter y Merriweather
 
 ### 🎮 Cómo Usar
-1. **Agregar Participantes**: Escribe el nombre y haz clic en "Añadir"
+1. **Agregar Participantes**: Escribe el nombre y haz clic en "Añadir" o presiona la tecla "Enter"
 2. **Gestionar Lista**: Usa "Borrar Amigo" para eliminar el último o "Reiniciar" para empezar de nuevo
 3. **Realizar Sorteo**: Haz clic en "Sortear amigo" cuando tengas al menos 2 participantes
 4. **Revelar Resultados**: Haz clic en cada tarjeta para ver tu amigo secreto
@@ -62,7 +62,7 @@
 - **Google Fonts**: Inter and Merriweather typographies
 
 ### 🎮 How to Use
-1. **Add Participants**: Type the name and click "Add"
+1. **Add Participants**: Type the name and click "Add" or press the "Enter" key
 2. **Manage List**: Use "Delete Friend" to remove the last one or "Reset" to start over
 3. **Perform Draw**: Click "Draw friend" when you have at least 2 participants
 4. **Reveal Results**: Click on each card to see your secret friend
