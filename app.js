@@ -46,8 +46,8 @@ function reiniciar(){
 }
 
 function sortearAmigo(){
-    if(amigos.length < 2){
-        alert('Debe ingresar al menos 2 amigos');
+    if(amigos.length < 3){
+        alert('Debe ingresar al menos 3 amigos');
         return;
     }
     
