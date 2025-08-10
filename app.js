@@ -43,6 +43,7 @@ function reiniciar(){
     amigos = [];
     ['listaAmigos', 'resultado'].forEach(id => document.getElementById(id).innerHTML = '');
     ['sortearAmigo', 'limpiar', 'añadir', 'amigo'].forEach(id => document.getElementById(id).disabled = false);
+    caja();
 }
 
 function sortearAmigo(){
