@@ -82,3 +82,14 @@ function revelarAmigo(tarjeta, amigoSecreto){
 function caja(){
     document.getElementById('amigo').value = '';
 }
+
+document.addEventListener('DOMContentLoaded', function() {
+    const inputAmigo = document.getElementById('amigo');
+    
+    inputAmigo.addEventListener('keypress', function(event) {
+        if (event.key === 'Enter') {
+            event.preventDefault(); 
+            agregarAmigo();
+        }
+    });
+});
