@@ -108,10 +108,13 @@ cd Amigo-Secreto
 ## 📸 Capturas de Pantalla / Screenshots
 
 ### Interfaz Principal / Main Interface
-![Interfaz Principal](https://via.placeholder.com/800x400/4B69FD/FFFFFF?text=Amigo+Secreto+Interface)
+![Interfaz Principal](screenshots/main-interface.png)
 
 ### Sorteo Realizado / Draw Completed
-![Sorteo](https://via.placeholder.com/800x400/4B69FD/FFFFFF?text=Secret+Santa+Cards)
+![Sorteo](screenshots/draw-completed.png)
+
+### Cómo Agregar Nombres / How to Add Names
+![Agregar Nombres](screenshots/adding-names.png)
 
 ---
 
@@ -134,14 +137,6 @@ Contributions are welcome! If you have ideas to improve the application:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
----
-
-## 📄 Licencia / License
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-This project is under the MIT License. See the `LICENSE` file for more details.
 
 ---
 
