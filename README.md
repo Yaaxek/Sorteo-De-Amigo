@@ -1,6 +1,6 @@
 # 🎁 Amigo Secreto / Secret Santa
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yaaxek/Amigo-Secreto)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yaaxek/Sorteo-De-Amigo)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -82,10 +82,10 @@
 ### 🇪🇸 Español
 ```bash
 # Clonar el repositorio
-git clone https://github.com/Yaaxek/Amigo-Secreto.git
+git clone https://github.com/Yaaxek/Sorteo-De-Amigo.git
 
 # Navegar al directorio
-cd Amigo-Secreto
+cd Sorteo-De-Amigo
 
 # Abrir en el navegador
 # Simplemente abre index.html en tu navegador favorito
@@ -94,10 +94,10 @@ cd Amigo-Secreto
 ### 🇺🇸 English
 ```bash
 # Clone the repository
-git clone https://github.com/Yaaxek/Amigo-Secreto.git
+git clone https://github.com/Yaaxek/Sorteo-De-Amigo.git
 
 # Navigate to directory
-cd Amigo-Secreto
+cd Sorteo-De-Amigo
 
 # Open in browser
 # Simply open index.html in your favorite browser
@@ -159,6 +159,6 @@ Contributions are welcome! If you have ideas to improve the application:
 
 ### ⭐ ¡Dale una estrella si te gustó el proyecto! / Give it a star if you liked the project!
 
-[![GitHub stars](https://img.shields.io/github/stars/Yaaxek/Amigo-Secreto?style=social)](https://github.com/Yaaxek/Amigo-Secreto/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Yaaxek/Sorteo-De-Amigo?style=social)](https://github.com/Yaaxek/Sorteo-De-Amigo/stargazers)
 
 </div>
